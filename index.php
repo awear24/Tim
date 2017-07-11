@@ -3,6 +3,12 @@
 	<head>
 		<title>MadLibAboutMe</title>
 	</head>
+	<style>
+		body {
+			background-image: url("http://cowsay.morecode.org/static/cowsay.png");
+			background-repeat: repeat-x;
+		}
+	</style>
 	<body>
 		<h1>welcome to Augustina's MadLibography</h1>
 		<p>
@@ -12,6 +18,6 @@
 			library science major at the MVD and has enjoyed printmaking in deep space, chugging iowaska tea, and
 			playing tug of war with her neighbor, Tonald Drump. She aspires to someday be the first full-time author
 			to breath on the moon!</p>
-		<img src="images/cowsay.png">
+		<img src="images/augustinawear.jpg">
 	</body>
 </html>
