@@ -6,8 +6,8 @@
 	<style>
 		body {
 			background-image: url("http://cowsay.morecode.org/static/cowsay.png");
-			background-repeat: repeat-x;
-		}
+			background-repeat: repeat;
+		 }
 	</style>
 	<body>
 		<h1>welcome to Augustina's MadLibography</h1>
