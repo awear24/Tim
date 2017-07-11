@@ -10,7 +10,7 @@
 		body {
 			background-color:rgb(<50>,<100>,<200>)
 			background-image:url("http://cowsay.morecode.org/static/cowsay.png");
-			background-repeat:repeat;
+			background-repeat:initial;
 		}
 	</style>
 
