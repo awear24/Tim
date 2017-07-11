@@ -1,5 +1,6 @@
 <!DOC TYPE html>
 <html>
+
 	<head>
 		<title>MadLibAboutMe</title>
 	</head>
@@ -7,9 +8,9 @@
 
 	<style>
 		body {
-			background-color: rgb(<0>,<100>,<200>)
-			background-image: url("http://cowsay.morecode.org/static/cowsay.png");
-			background-repeat;
+			background-color:rgb(<50>,<100>,<200>)
+			background-image:url("http://cowsay.morecode.org/static/cowsay.png");
+			background-repeat:repeat;
 		}
 	</style>
 
@@ -27,4 +28,5 @@
 
 		<img src="images/augustinawear.jpg" >
 	</body>
+
 </html>
