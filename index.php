@@ -5,9 +5,11 @@
 	</head>
 	<style>
 		body {
+
+			background-color: rgb(<0>,<100>,<200>)
 			background-image: url("http://cowsay.morecode.org/static/cowsay.png");
-			background-repeat: repeat;
-		 }
+			background-repeat;
+		}
 	</style>
 	<body>
 		<h1>welcome to Augustina's MadLibography</h1>
@@ -18,6 +20,6 @@
 			library science major at the MVD and has enjoyed printmaking in deep space, chugging iowaska tea, and
 			playing tug of war with her neighbor, Tonald Drump. She aspires to someday be the first full-time author
 			to breath on the moon!</p>
-		<img src="images/augustinawear.jpg">
+		<img src="images/augustinawear.jpg" >
 	</body>
 </html>
